@@ -45,5 +45,4 @@ Resumes are an ideal example of unstructured data. Since there is no widely acce
 </div>
 
 
-## ✍️ RENUKA RATHOD
-- [RENUKA](https://github.com/renuka_rathod-18)
+
